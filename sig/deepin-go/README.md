@@ -43,7 +43,7 @@
 
 ## 讨论渠道
 
-在[deepin-network-manager](https://github.com/deepin-community/sig-deepin-go)项目的[ISSUE区](https://github.com/deepin-community/sig-deepin-go/issues)进行主要的讨论。
+在[sig-deepin-go](https://github.com/deepin-community/sig-deepin-go)项目的[ISSUE区](https://github.com/deepin-community/sig-deepin-go/issues)进行主要的讨论。
 
 ## 相关链接
 
